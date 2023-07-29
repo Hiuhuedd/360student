@@ -78,8 +78,9 @@ export const ProgramsArray = [
         },
       },
     },
-    // Add  new program objects with data as above. remember to maintain the structure. you can do this!!! call me if you need any clarifications. namaste 
-   
+    // this was D33 i a nutshell( FROM THE FIRST BRACKET ({) TO THE LAST COMMA (,)
+    // Add  new program objects with data as above. remember to maintain the structure/punctuation. LET'S CODE THIS UP. you can do this!!! call me if you need any clarifications. namaste 
+    // ENSURE UNIT CODES ARE NOT SPACED IE "EAE304" NOT "EAE 304"
   ];
   
   
